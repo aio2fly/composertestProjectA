@@ -1,4 +1,10 @@
 {
+	"repositories": [
+      {
+        "type": "vcs",
+        "url": "git@github.com:aio2fly/composertestProjectB.git"
+      }
+    ],
     "name": "aiotest/projectA",
     "require": {
         "aiotest/projectB": "dev-master"
